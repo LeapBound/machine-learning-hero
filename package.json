@@ -2,7 +2,7 @@
   "name": "machine-learning-hero",
   "version": "0.0.1",
   "description": "Are you ok?",
-  "license": "APACHE 2.0",
+  "license": "Apache",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress build docs",
